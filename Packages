@@ -1,12 +1,27 @@
+Package: com.dansa.ehhls
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dansaDisco <saftsnubben@gmail.com>
+Filename: debs/ehhls.deb
+Size: 29200
+MD5sum: 0eec0d5a5568edfe0616fe0c4d4bfd21
+SHA1: 7c74adacf29486e19ba9af09bfd7c45bf5e34362
+SHA256: 80b1b74f76a908c5f0a5c40218e01f33a6463301146cc2eeb7d4ba5b6866ae54
+Section: Themes
+Description: A random LS clock I made.
+Author: dansaDisco <saftsnubben@gmail.com>
+Depiction: http://dansa.github.io/depictions/info/com.dansa.ehhls/index.html
+Name: ehhLS - Lockscreen Clock
+
 Package: com.dansa.flite9b
 Version: 1.1-r5
 Architecture: iphoneos-arm
 Maintainer: dansaDisco <saftsnubben@gmail.com>
 Filename: debs/flite9.deb
 Size: 376578
-MD5sum: dd1acfd5340ffd97783c699bfd791a11
-SHA1: 82e1bd5710ea254b6ad906f74692a664c4f676b5
-SHA256: 0b7fdd446bf622a3078aca9a180058c70120f19b56887907995862913d539cae
+MD5sum: 82f2ee9d7b68c44305070b6a509af6ac
+SHA1: ee7e9cad96c6c0f4212e02cb220949e15712ea39
+SHA256: 15fcefec47c7ad4cc0e6a3b296c810c884d17f4fba6eaf96785740ed6d09cd19
 Section: Themes
 Description: Super neat beta version.
 Author: dansaDisco <saftsnubben@gmail.com>
