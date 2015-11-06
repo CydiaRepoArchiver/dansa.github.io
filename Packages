@@ -1,12 +1,12 @@
 Package: com.dansa.ehhls
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: dansaDisco <saftsnubben@gmail.com>
 Filename: debs/ehhls.deb
-Size: 29204
-MD5sum: 53b8d062a7b2db2503d7d758db4c7225
-SHA1: ec264110f6d63fa80b05ee80e5d7627a6158f337
-SHA256: 4aa5680efbb62218477b488b047a0f0614f1d993c302756383f29c4330ce71fe
+Size: 29232
+MD5sum: 82d3b2d1ea912fc3058b0dee14cd4153
+SHA1: 6e7e3dce2bab8ab6d3e44cd30a4991281f3fef79
+SHA256: 362b60af6a2173cbd85197461d7c3950f5a9819f36b3e0622bd879bfa81d3034
 Section: Themes
 Description: A random LS clock I made.
 Author: dansaDisco <saftsnubben@gmail.com>
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: dansaDisco <saftsnubben@gmail.com>
 Filename: debs/flite9.deb
 Size: 376578
-MD5sum: c4f6200062017055011eed2f662e69ea
-SHA1: 8d9a33e9edbaf88b728c9dfdd3dc86d652f26d91
-SHA256: 98547e22696dcd8c790e48a02fcaccdc799ec5e60a5bfbb98f6f3108daa3a9bd
+MD5sum: 8d8407d4ae384869cf7aaa273018d532
+SHA1: 4bbfb5d7bb1767e347461a32d43aba18d47ecec6
+SHA256: 2279ea4946b97557d1e0c85a025d9b5be0cd1b7cf6672b668fbafdcf74bd8336
 Section: Themes
 Description: Super neat beta version.
 Author: dansaDisco <saftsnubben@gmail.com>
