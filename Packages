@@ -1,12 +1,12 @@
 Package: com.dansa.flite9
-Version: 0.003
+Version: 0.1-r1
 Architecture: iphoneos-arm
 Maintainer: dansaDisco <saftsnubben@gmail.com>
 Filename: debs/flite9.deb
 Size: 376678
-MD5sum: 307c2b57e8d8da462d786f87c79a83c3
-SHA1: c46d384cbe2289d3588c0019760d474991f0e77c
-SHA256: 8ecb7f39b76349f29ea696ef09398a65b5822e5a95e69cdee74efc5b2bf9fe50
+MD5sum: 6b8997de6ad032a188bb12145e2d8a41
+SHA1: 47d037d2e7f7770e2ac96016280f0345e7517fc4
+SHA256: b241ad7d489b17f53c8c5e08faf80c2161cd61bf597c4d0ac3765ca050d97002
 Homepage: http://dansa.github.io
 Description: Beta and stuff for Flite 9
 Author: dansaDisco <saftsnubben@gmail.com>
