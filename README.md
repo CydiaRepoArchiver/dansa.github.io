@@ -1,5 +1,5 @@
 # dansa.github.io
-This will be where all my nice beta stuff lives.
+This will be the repository where all my nice little beta stuff lives. May it serve me well o/
 
 ### Attributions & Thanks
 https://github.com/arcetera 
