@@ -1,12 +1,12 @@
 Package: com.dansa.flite9b
-Version: 0.1-r3
+Version: 1.1-r3
 Architecture: iphoneos-arm
 Maintainer: dansaDisco <saftsnubben@gmail.com>
-Filename: debs/com.dansa.flite9b_0.1-r3_iphoneos-arm.deb
-Size: 376668
-MD5sum: 6efeccc1b64f2a49a72376f9cafa7821
-SHA1: 3d91f41df042a0bdd3130bd7902bbbf27782edc6
-SHA256: b3fc875e37e7663905f7ca4151f791460068acadf56435bc87347317c0b6262d
+Filename: debs/com.dansa.flite9b_1.1-r3_iphoneos-arm.deb
+Size: 376672
+MD5sum: c4b0a5d1d784b425a30f6f764319768b
+SHA1: 7f1e9cad3469e848ed9cb94d324465349dde17d4
+SHA256: 6b8f794b5ef1ca1ad2c5fc391ffa2512f50f89c742ae0b945b64313536f05e3b
 Section: Themes
 Description: Super neat beta version.
 Author: dansaDisco <saftsnubben@gmail.com>
